@@ -85,7 +85,7 @@ export const categories = [
         description: 'This property is in the barn!'
     },
     {
-        label: 'Desert',
+        label: 'Diamond',
         icon: IoDiamond,
         description: 'This property is luxurious!'
     }
